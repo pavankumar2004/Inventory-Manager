@@ -2,6 +2,7 @@ import type { Config } from "tailwindcss";
 import { createThemes } from "tw-colors";
 import colors from "tailwindcss/colors";
 
+
 const baseColors = [
   "gray",
   "red",
